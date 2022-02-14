@@ -1,3 +1,4 @@
+//A program that will calculate the monthly car payment a user should expect to make after taking out a car loan.
 public class CarLoan {
     public static void main(String[] args) {
         int carLoan = 10000;
